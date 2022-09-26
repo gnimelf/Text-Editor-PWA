@@ -28,7 +28,6 @@ This project is a text editor that runs in the browser. The app is a single-page
 
 ## Credits
 
-* Heroku
 * Node
 * webpack
 
